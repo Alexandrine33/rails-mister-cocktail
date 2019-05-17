@@ -7,7 +7,6 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Cocktail.create(name: "mojito")
 Cocktail.create(name: "punch")
-
 Ingredient.create(name: "lemon")
 Ingredient.create(name: "ice")
 Ingredient.create(name: "mint leaves")
